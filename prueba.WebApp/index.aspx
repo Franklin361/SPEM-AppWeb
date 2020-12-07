@@ -36,7 +36,7 @@
                 </li>
 
                 <li class="nav-item px-md-5">
-                    <a class="nav-link pl-2" href="inicio/alumno.aspx">Estudiantes</a>
+                    <a class="nav-link pl-2" href="inicio/alumno.aspx">Tutor del alumno</a>
                 </li>
 
             
